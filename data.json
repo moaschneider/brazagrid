@@ -1,0 +1,142 @@
+{
+  "estados": ["AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES", "GO", "MA", "MG", "MS", "MT", "PA", "PB", "PE", "PI", "PR", "RJ", "RN", "RO", "RR", "RS", "SC", "SE", "SP", "TO"],
+  "caracteristicas": [
+    {
+      "texto": "Tem amarelo na bandeira",
+      "estados": ["AC", "AL", "AP", "CE", "DF", "GO", "MS", "MT", "PE", "PI", "RJ", "RN", "RO", "RR", "RS", "SC", "SE", "SP", "TO"]
+    },
+    {
+      "texto": "Tem estrelas na bandeira",
+      "estados": ["AC", "AL", "AM", "CE", "GO", "MA", "MS", "MT", "PA", "PE", "PI", "PR", "RJ", "RN", "RO", "RR", "RS", "SC", "SE", "SP"]
+    },
+    {
+      "texto": "Tem plantas ou animais na bandeira",
+      "estados": ["AL", "CE", "PR", "RJ", "RN", "RS", "SC"]
+    },
+    {
+      "texto": "Tem alguma palavra na bandeira",
+      "estados": ["ES", "MG", "PB", "PI", "PR", "RJ", "RS", "SC"]
+    },
+    {
+      "texto": "Tem brasão de armas na bandeira",
+      "estados": ["AL", "CE", "RJ", "RN", "RS", "SC"]
+    },
+    {
+      "texto": "Tem saída para o mar",
+      "estados": ["AL", "AM", "AP", "BA", "CE", "ES", "MA", "PA", "PB", "PE", "PI", "PR", "RJ", "RN", "RS", "SC", "SE", "SP"]
+    },
+    {
+      "texto": "População superior a 10 milhões de habitantes",
+      "estados": ["BA", "MG", "PR", "RJ", "RS", "SP"]
+    },
+    {
+      "texto": "Capital tem população superior a 1 milhão de habitantes",
+      "estados": ["AM", "BA", "CE", "DF", "GO", "MA", "MG", "PA", "PE", "PR", "RJ", "RS", "SP"]
+    },
+    {
+      "texto": "Tem fronteira com outro país",
+      "estados": ["AC", "AM", "AP", "MS", "MT", "PA", "PR", "RO", "RR", "RS", "SC"]
+    },
+    {
+      "texto": "Tem fronteira com Minas Gerais",
+      "estados": ["BA", "ES", "GO", "MS", "RJ", "SP"]
+    },
+    {
+      "texto": "Tem fronteira com a Bahia",
+      "estados": ["AL", "ES", "GO", "MG", "PE", "PI", "SE", "TO"]
+    },
+    {
+      "texto": "Mais de 200 municípios",
+      "estados": ["BA", "GO", "MA", "MG", "PB", "PI", "PR", "RS", "SC", "SP"]
+    },
+    {
+      "texto": "Menos de 100 municípios",
+      "estados": ["AC", "AM", "AP", "ES", "MS", "RJ", "RO", "RR", "SE"]
+    },
+    {
+      "texto": "Área superior a 200.000 km2",
+      "estados": ["AM", "BA", "GO", "MA", "MG", "MS", "MT", "PA", "PI", "RO", "RR", "RS", "SP", "TO"]
+    },
+    {
+      "texto": "Área inferior a 50.000 km2",
+      "estados": ["AL", "DF", "ES", "RJ", "SE"]
+    },
+    {
+      "texto": "Área superior a 500.000 km2",
+      "estados": ["AM", "BA", "MG", "MT", "PA"]
+    },
+    {
+      "texto": "Extensão do litoral superior a 500 km",
+      "estados": ["AP", "BA", "CE", "MA", "PA", "RJ", "RS", "SC", "SP"]
+    },
+    {
+      "texto": "Extensão do litorial inferior a 300 km",
+      "estados": ["AL", "PB", "PE", "PI", "PR", "SE"]
+    },
+    {
+      "texto": "Faz parte da bacia do rio Amazonas",
+      "estados": ["AC", "AM", "AP", "MT", "PA", "RO", "RR"]
+    },
+    {
+      "texto": "Faz parte da bacia do rio São Francisco",
+      "estados": ["AL", "BA", "DF", "GO", "MG", "PE", "SE"]
+    },
+    {
+      "texto": "Faz parte da bacia hidrográfica Araguaia-Tocantins",
+      "estados": ["DF", "GO", "MA", "MT", "PA", "TO"]
+    },
+    {
+      "texto": "Faz parte da bacia hidrográfica do rio Paraná",
+      "estados": ["DF", "GO", "MG", "MS", "PR", "SC", "SP"]
+    },
+    {
+      "texto": "Faz parte do bioma Amazônia",
+      "estados": ["AC", "AM", "AP", "MA", "MT", "PA", "RO", "RR", "TO"]
+    },
+    {
+      "texto": "Faz parte do bioma Cerrado",
+      "estados": ["AM", "AP", "BA", "DF", "GO", "MA", "MG", "MS", "MT", "PA", "PI", "PR", "RO", "RR", "SP", "TO"]
+    },
+    {
+      "texto": "Faz parte do bioma Mata Atlântica",
+      "estados": ["AL", "BA", "CE", "ES", "GO", "MG", "MS", "PB", "PE", "PI", "PR", "RJ", "RN", "RS", "SC", "SE", "SP"]
+    },
+    {
+      "texto": "Faz parte do bioma Caatinga",
+      "estados": ["AL", "BA", "CE", "MA", "MG", "PB", "PE", "PI", "SE"]
+    },
+    {
+      "texto": "Top 10 em movimentação portuária (em peso bruto)",
+      "estados": ["BA", "ES", "MA", "PA", "PE", "PR", "RJ", "RS", "SC", "SP"]
+    },
+    {
+      "texto": "Top 10 na produção de café",
+      "estados": ["BA", "ES", "GO", "MG", "MT", "PA", "PR", "RJ", "RO", "SP"]
+    },
+    {
+      "texto": "Top 10 na produção de feijão",
+      "estados": ["BA", "CE", "GO", "MG", "MT", "PR", "RS", "SC", "SP", "TO"]
+    },
+    {
+      "texto": "Top 10 na produção de milho",
+      "estados": ["BA", "GO", "MA", "MG", "MS", "MT", "PR", "RS", "SP", "TO"]
+    },
+    {
+      "texto": "Possui fábricas de automóveis ou motocicletas",
+      "estados": ["AM", "BA", "GO", "MG", "PE", "PR", "RJ", "RS", "SC", "SP"]
+    },
+    {
+      "texto": "Possui parque eólico",
+      "estados": ["BA", "CE", "MA", "PB", "PE", "PI", "PR", "RJ", "RN", "RS", "SC", "SE"]
+    },
+    {
+      "texto": "Já sediou jogos da copa do mundo",
+      "estados": ["AM", "BA", "CE", "DF", "MG", "MT", "PE", "PR", "RJ", "RN", "RS", "SP"]
+    },
+    {
+      "texto": "Já teve algum time campeão brasileiro de futebol masculino",
+      "estados": ["BA", "MG", "PE", "PR", "RJ", "RS", "SC", "SP"]
+    }
+  ]
+}
+

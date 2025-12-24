@@ -1,0 +1,39 @@
+,AC,AL,AM,AP,BA,CE,DF,ES,GO,MA,MG,MS,MT,PA,PB,PE,PI,PR,RJ,RN,RO,RR,RS,SC,SE,SP,TO
+Tem amarelo na bandeira,AC,AL,,AP,,CE,DF,,GO,,,MS,MT,,,PE,PI,,RJ,RN,RO,RR,RS,SC,SE,SP,TO
+Tem estrelas na bandeira,AC,AL,AM,,,CE,,,GO,MA,,MS,MT,PA,,PE,PI,PR,RJ,RN,RO,RR,RS,SC,SE,SP,
+Tem plantas ou animais na bandeira,,AL,,,,CE,,,,,,,,,,,,PR,RJ,RN,,,RS,SC,,,
+Tem alguma palavra na bandeira,,,,,,,,ES,,,MG,,,,PB,,PI,PR,RJ,,,,RS,SC,,,
+Tem brasão de armas na bandeira,,AL,,,,CE,,,,,,,,,,,,,RJ,RN,,,RS,SC,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tem saída para o mar,,AL,AM,AP,BA,CE,,ES,,MA,,,,PA,PB,PE,PI,PR,RJ,RN,,,RS,SC,SE,SP,
+População superior a 10 milhões de habitantes,,,,,BA,,,,,,MG,,,,,,,PR,RJ,,,,RS,,,SP,
+Capital tem população superior a 1 milhão de habitantes,,,AM,,BA,CE,DF,,GO,MA,MG,,,PA,,PE,,PR,RJ,,,,RS,,,SP,
+Tem fronteira com outro país,AC,,AM,AP,,,,,,,,MS,MT,PA,,,,PR,,,RO,RR,RS,SC,,,
+Tem fronteira com Minas Gerais,,,,,BA,,,ES,GO,,,MS,,,,,,,RJ,,,,,,,SP,
+Tem fronteira com a Bahia,,AL,,,,,,ES,GO,,MG,,,,,PE,PI,,,,,,,,SE,,TO
+Mais de 200 municípios,,,,,BA,,,,GO,MA,MG,,,,PB,,PI,PR,,,,,RS,SC,,SP,
+Menos de 100 municípios,AC,,AM,AP,,,,ES,,,,MS,,,,,,,RJ,,RO,RR,,,SE,,
+Área superior a 200.000 km2,,,AM,,BA,,,,GO,MA,MG,MS,MT,PA,,,PI,,,,RO,RR,RS,,,SP,TO
+Área inferior a 50.000 km2,,AL,,,,,DF,ES,,,,,,,,,,,RJ,,,,,,SE,,
+Área superior a 500.000 km2,,,AM,,BA,,,,,,MG,,MT,PA,,,,,,,,,,,,,
+Extensão do litoral superior a 500 km,,,,AP,BA,CE,,,,MA,,,,PA,,,,,RJ,,,,RS,SC,,SP,
+Extensão do litorial inferior a 300 km,,AL,,,,,,,,,,,,,PB,PE,PI,PR,,,,,,,SE,,
+Faz parte da bacia do rio Amazonas,AC,,AM,AP,,,,,,,,,MT,PA,,,,,,,RO,RR,,,,,
+Faz parte da bacia do rio São Francisco,,AL,,,BA,,DF,,GO,,MG,,,,,PE,,,,,,,,,SE,,
+Faz parte da bacia hidrográfica Araguaia-Tocantins,,,,,,,DF,,GO,MA,,,MT,PA,,,,,,,,,,,,,TO
+Faz parte da bacia hidrográfica do rio Paraná,,,,,,,DF,,GO,,MG,MS,,,,,,PR,,,,,,SC,,SP,
+Faz parte do bioma Amazônia,AC,,AM,AP,,,,,,MA,,,MT,PA,,,,,,,RO,RR,,,,,TO
+Faz parte do bioma Cerrado,,,AM,AP,BA,,DF,,GO,MA,MG,MS,MT,PA,,,PI,PR,,,RO,RR,,,,SP,TO
+Faz parte do bioma Mata Atlântica,,AL,,,BA,CE,,ES,GO,,MG,MS,,,PB,PE,PI,PR,RJ,RN,,,RS,SC,SE,SP,
+Faz parte do bioma Caatinga,,AL,,,BA,CE,,,,MA,MG,,,,PB,PE,PI,,,,,,,,SE,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Top 10 em movimentação portuária (em peso bruto),,,,,BA,,,ES,,MA,,,,PA,,PE,,PR,RJ,,,,RS,SC,,SP,
+Top 10 na produção de café,,,,,BA,,,ES,GO,,MG,,MT,PA,,,,PR,RJ,,RO,,,,,SP,
+Top 10 na produção de feijão,,,,,BA,CE,,,GO,,MG,,MT,,,,,PR,,,,,RS,SC,,SP,TO
+Top 10 na produção de milho,,,,,BA,,,,GO,MA,MG,MS,MT,,,,,PR,,,,,RS,,,SP,TO
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Possui fábricas de automóveis ou motocicletas,,,AM,,BA,,,,GO,,MG,,,,,PE,,PR,RJ,,,,RS,SC,,SP,
+Possui parque eólico,,,,,BA,CE,,,,MA,,,,,PB,PE,PI,PR,RJ,RN,,,RS,SC,SE,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Já sediou jogos da copa do mundo,,,AM,,BA,CE,DF,,,,MG,,MT,,,PE,,PR,RJ,RN,,,RS,,,SP,
+Já teve algum time campeão brasileiro de futebol masculino,,,,,BA,,,,,,MG,,,,,PE,,PR,RJ,,,,RS,SC,,SP,
