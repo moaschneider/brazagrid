@@ -50,30 +50,74 @@ function validateIntersections(rowChars, colChars) {
     return true; // Todas as interseções têm pelo menos um estado
 }
 
+// Verificar se as características selecionadas têm categorias únicas
+function hasUniqueCategories(caracteristicas) {
+    const categorias = new Set();
+    for (const char of caracteristicas) {
+        const categoria = char.categoria || 'outros';
+        if (categorias.has(categoria)) {
+            return false; // Categoria duplicada encontrada
+        }
+        categorias.add(categoria);
+    }
+    return true; // Todas as categorias são únicas
+}
+
 // Selecionar características válidas (todas as interseções devem ter estados possíveis)
+// Garantindo que apenas uma retranca de cada categoria seja selecionada por partida
 function selectValidCharacteristics() {
     const maxAttempts = 1000; // Limite de tentativas para evitar loop infinito
     let attempts = 0;
 
     while (attempts < maxAttempts) {
-        // Selecionar 3 características para linhas e 3 para colunas
+        // Embaralhar todas as características
         const shuffled = [...gameData.caracteristicas].sort(() => Math.random() - 0.5);
-        const rowChars = shuffled.slice(0, 3);
-        const colChars = shuffled.slice(3, 6);
-
+        
+        // Selecionar 6 características diferentes, garantindo categorias únicas
+        const selected = [];
+        const usedCategories = new Set();
+        
+        for (const char of shuffled) {
+            const categoria = char.categoria || 'outros';
+            // Adicionar apenas se a categoria ainda não foi usada
+            if (!usedCategories.has(categoria)) {
+                selected.push(char);
+                usedCategories.add(categoria);
+                // Parar quando tivermos 6 características de categorias diferentes
+                if (selected.length === 6) {
+                    break;
+                }
+            }
+        }
+        
+        // Verificar se conseguimos 6 características de categorias diferentes
+        if (selected.length < 6) {
+            attempts++;
+            continue; // Tentar novamente se não conseguimos 6 categorias diferentes
+        }
+        
+        // Dividir em 3 para linhas e 3 para colunas
+        const rowChars = selected.slice(0, 3);
+        const colChars = selected.slice(3, 6);
+        
         // Verificar se todas as interseções têm estados possíveis
         if (validateIntersections(rowChars, colChars)) {
-            return { rowChars, colChars };
+            // Verificar novamente que as categorias são únicas (segurança extra)
+            const allChars = [...rowChars, ...colChars];
+            if (hasUniqueCategories(allChars)) {
+                return { rowChars, colChars };
+            }
         }
 
         attempts++;
     }
 
-    // Se não encontrou após muitas tentativas, usar as primeiras válidas encontradas
-    console.warn('Não foi possível encontrar características com todas interseções válidas após', maxAttempts, 'tentativas. Usando características padrão.');
+    // Se não encontrou após muitas tentativas, tentar sem restrição de categoria
+    console.warn('Não foi possível encontrar características com categorias únicas após', maxAttempts, 'tentativas. Tentando sem restrição de categoria.');
+    const shuffled = [...gameData.caracteristicas].sort(() => Math.random() - 0.5);
     return {
-        rowChars: gameData.caracteristicas.slice(0, 3),
-        colChars: gameData.caracteristicas.slice(3, 6)
+        rowChars: shuffled.slice(0, 3),
+        colChars: shuffled.slice(3, 6)
     };
 }
 

@@ -8,6 +8,23 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
+        :root {
+            --grid-cell-mobile-size: 90px;
+            --grid-gap-mobile-size: 4px;
+
+            --grid-cell-tablet-size: 100px;
+            --grid-gap-tablet-size: 6px;
+
+            --grid-cell-desktop-size: 110px;
+            --grid-gap-desktop-size: 6px;
+
+            --grid-columns: 4;
+            /* Largura total do grid: 4 células + 3 gaps */
+            --grid-total-width-desktop: calc(var(--grid-columns) * var(--grid-cell-desktop-size) + (var(--grid-columns) - 1) * var(--grid-gap-desktop-size));
+            --grid-total-width-tablet: calc(var(--grid-columns) * var(--grid-cell-tablet-size) + (var(--grid-columns) - 1) * var(--grid-gap-tablet-size));
+            --grid-total-width-mobile: calc(var(--grid-columns) * var(--grid-cell-mobile-size) + (var(--grid-columns) - 1) * var(--grid-gap-mobile-size));
+        }
+
         * {
             margin: 0;
             padding: 0;
@@ -26,7 +43,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            margin-bottom: 50px;
+            margin-bottom: 30px;
             padding: 0 10px;
         }
 
@@ -51,7 +68,7 @@
             gap: 15px;
         }
 
-        .icon-btn {
+        /* .icon-btn {
             background: rgba(255, 255, 255, 0.1);
             border: none;
             color: #fff;
@@ -60,11 +77,11 @@
             border-radius: 8px;
             cursor: pointer;
             transition: background 0.3s;
-        }
+        } */
 
-        .icon-btn:hover {
+        /* .icon-btn:hover {
             background: rgba(255, 255, 255, 0.2);
-        }
+        } */
 
         .game-container {
             max-width: 1200px;
@@ -77,7 +94,7 @@
             padding: 15px;
             background: rgba(255, 255, 255, 0.05);
             border-radius: 12px;
-            width: 605px;
+            width: var(--grid-total-width-desktop);
             max-width: 100%;
             box-sizing: border-box;
         }
@@ -85,8 +102,8 @@
 
         .grid-container {
             display: grid;
-            grid-template-columns: repeat(4, 140px);
-            gap: 8px;
+            grid-template-columns: repeat(var(--grid-columns), var(--grid-cell-desktop-size));
+            gap: var(--grid-gap-desktop-size);
             margin: 0 auto 30px;
             justify-content: center;
         }
@@ -96,10 +113,10 @@
             border-radius: 12px;
             padding: 15px;
             aspect-ratio: 1;
-            width: 140px;
-            height: 140px;
-            max-width: 140px;
-            max-height: 140px;
+            width: var(--grid-cell-desktop-size);
+            height: var(--grid-cell-desktop-size);
+            max-width: var(--grid-cell-desktop-size);
+            max-height: var(--grid-cell-desktop-size);
             display: flex;
             align-items: center;
             justify-content: center;
@@ -323,23 +340,24 @@
             }
 
             .game-info {
-                width: 100% !important;
+                width: var(--grid-total-width-tablet) !important;
                 max-width: 100% !important;
                 padding: 12px;
             }
 
             .grid-container {
-                grid-template-columns: repeat(4, 1fr) !important;
-                gap: 6px !important;
-                max-width: 100%;
+                display: grid;
+                grid-template-columns: repeat(4, var(--grid-cell-tablet-size)) !important;
+                gap: var(--grid-gap-tablet-size) !important;
                 width: 100%;
+                justify-content: center;
             }
 
             .grid-cell {
-                width: 100% !important;
-                height: auto !important;
-                max-width: 100% !important;
-                max-height: 100% !important;
+                width: var(--grid-cell-tablet-size) !important;
+                height: var(--grid-cell-tablet-size) !important;
+                max-width: var(--grid-cell-tablet-size) !important;
+                max-height: var(--grid-cell-tablet-size) !important;
                 aspect-ratio: 1;
                 padding: 12px;
                 font-size: 13px;
@@ -369,23 +387,24 @@
             }
 
             .game-info {
-                width: 100% !important;
+                width: var(--grid-total-width-mobile) !important;
                 max-width: 100% !important;
                 padding: 12px;
             }
 
             .grid-container {
-                grid-template-columns: repeat(4, 1fr) !important;
-                gap: 5px !important;
+                grid-template-columns: repeat(4, var(--grid-cell-mobile-size)) !important;
+                gap: var(--grid-gap-mobile-size) !important;
                 max-width: 100%;
                 width: 100%;
+                justify-content: center;
             }
 
             .grid-cell {
-                width: 100% !important;
-                height: auto !important;
-                max-width: 100% !important;
-                max-height: 100% !important;
+                width: var(--grid-cell-mobile-size) !important;
+                height: var(--grid-cell-mobile-size) !important;
+                max-width: var(--grid-cell-mobile-size) !important;
+                max-height: var(--grid-cell-mobile-size) !important;
                 aspect-ratio: 1;
                 padding: 8px;
                 font-size: 12px;
@@ -404,17 +423,13 @@
             }
 
             .logo {
-                font-size: 24px;
+                font-size: 30px;
             }
 
             .flag-icon {
-                width: 22px;
-                height: 22px;
+                width: 28px;
+                height: 28px;
                 object-fit: cover;
-            }
-
-            .header {
-                margin-bottom: 20px;
             }
         }
     </style>

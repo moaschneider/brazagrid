@@ -2,140 +2,154 @@
   "estados": ["AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES", "GO", "MA", "MG", "MS", "MT", "PA", "PB", "PE", "PI", "PR", "RJ", "RN", "RO", "RR", "RS", "SC", "SE", "SP", "TO"],
   "caracteristicas": [
     {
-      "texto": "Tem amarelo na bandeira",
+      "texto": "Bandeira possui a cor amarela",
+      "categoria": "bandeira",
       "estados": ["AC", "AL", "AP", "CE", "DF", "GO", "MS", "MT", "PE", "PI", "RJ", "RN", "RO", "RR", "RS", "SC", "SE", "SP", "TO"]
     },
     {
       "texto": "Tem estrelas na bandeira",
+      "categoria": "bandeira",
       "estados": ["AC", "AL", "AM", "CE", "GO", "MA", "MS", "MT", "PA", "PE", "PI", "PR", "RJ", "RN", "RO", "RR", "RS", "SC", "SE", "SP"]
     },
     {
-      "texto": "Tem plantas ou animais na bandeira",
-      "estados": ["AL", "CE", "PR", "RJ", "RN", "RS", "SC"]
-    },
-    {
-      "texto": "Tem alguma palavra na bandeira",
-      "estados": ["ES", "MG", "PB", "PI", "PR", "RJ", "RS", "SC"]
-    },
-    {
-      "texto": "Tem brasão de armas na bandeira",
-      "estados": ["AL", "CE", "RJ", "RN", "RS", "SC"]
-    },
-    {
       "texto": "Tem saída para o mar",
+      "categoria": "geografia",
       "estados": ["AL", "AM", "AP", "BA", "CE", "ES", "MA", "PA", "PB", "PE", "PI", "PR", "RJ", "RN", "RS", "SC", "SE", "SP"]
     },
     {
-      "texto": "População superior a 10 milhões de habitantes",
+      "texto": "Possui mais de 10 milhões de habitantes",
+      "categoria": "população",
       "estados": ["BA", "MG", "PR", "RJ", "RS", "SP"]
     },
     {
-      "texto": "Capital tem população superior a 1 milhão de habitantes",
+      "texto": "Capital do estado tem mais de 1 milhão de habitantes",
+      "categoria": "população",
       "estados": ["AM", "BA", "CE", "DF", "GO", "MA", "MG", "PA", "PE", "PR", "RJ", "RS", "SP"]
     },
     {
       "texto": "Tem fronteira com outro país",
+      "categoria": "fronteiras",
       "estados": ["AC", "AM", "AP", "MS", "MT", "PA", "PR", "RO", "RR", "RS", "SC"]
     },
     {
-      "texto": "Tem fronteira com Minas Gerais",
-      "estados": ["BA", "ES", "GO", "MS", "RJ", "SP"]
-    },
-    {
-      "texto": "Tem fronteira com a Bahia",
-      "estados": ["AL", "ES", "GO", "MG", "PE", "PI", "SE", "TO"]
-    },
-    {
-      "texto": "Mais de 200 municípios",
-      "estados": ["BA", "GO", "MA", "MG", "PB", "PI", "PR", "RS", "SC", "SP"]
-    },
-    {
-      "texto": "Menos de 100 municípios",
-      "estados": ["AC", "AM", "AP", "ES", "MS", "RJ", "RO", "RR", "SE"]
-    },
-    {
-      "texto": "Área superior a 200.000 km2",
-      "estados": ["AM", "BA", "GO", "MA", "MG", "MS", "MT", "PA", "PI", "RO", "RR", "RS", "SP", "TO"]
-    },
-    {
-      "texto": "Área inferior a 50.000 km2",
-      "estados": ["AL", "DF", "ES", "RJ", "SE"]
-    },
-    {
-      "texto": "Área superior a 500.000 km2",
+      "texto": "Maior que a Espanha",
+      "categoria": "geografia",
       "estados": ["AM", "BA", "MG", "MT", "PA"]
     },
     {
-      "texto": "Extensão do litoral superior a 500 km",
-      "estados": ["AP", "BA", "CE", "MA", "PA", "RJ", "RS", "SC", "SP"]
+      "texto": "Maior que a França",
+      "categoria": "geografia",
+      "estados": ["AM", "MT", "PA"]
     },
     {
-      "texto": "Extensão do litorial inferior a 300 km",
-      "estados": ["AL", "PB", "PE", "PI", "PR", "SE"]
+      "texto": "Maior que Portugal",
+      "categoria": "geografia",
+      "estados": ["AM", "PA", "MT", "MG", "BA", "MS", "GO", "MA", "RS", "TO", "PI", "SP", "RO", "RR", "PR", "AC", "CE", "AP", "PE"]
     },
     {
-      "texto": "Faz parte da bacia do rio Amazonas",
-      "estados": ["AC", "AM", "AP", "MT", "PA", "RO", "RR"]
+      "texto": "Maior que a Inglaterra",
+      "categoria": "geografia",
+      "estados": ["AM", "PA", "MT", "MG", "BA", "MS", "GO", "MA", "RS", "TO", "PI", "SP", "RO", "RR", "PR", "AC", "CE", "AP"]
     },
     {
-      "texto": "Faz parte da bacia do rio São Francisco",
-      "estados": ["AL", "BA", "DF", "GO", "MG", "PE", "SE"]
+      "texto": "Maior que a Itália",
+      "categoria": "geografia",
+      "estados": ["AM", "PA", "MT", "MG", "BA", "MS", "GO", "MA"]
     },
     {
-      "texto": "Faz parte da bacia hidrográfica Araguaia-Tocantins",
-      "estados": ["DF", "GO", "MA", "MT", "PA", "TO"]
+      "texto": "Menor que o Uruguai",
+      "categoria": "geografia",
+      "estados": ["AC", "CE", "AP", "PE", "SC", "PB", "RN", "ES", "RJ", "AL", "SE", "DF"]
+    },    
+    {
+      "texto": "Capital do estado está no litoral",
+      "categoria": "geografia",
+      "estados": ["PA", "MA", "CE", "RN", "PB", "PE", "AL", "SE", "BA", "ES", "RJ", "SC"]
     },
     {
-      "texto": "Faz parte da bacia hidrográfica do rio Paraná",
-      "estados": ["DF", "GO", "MG", "MS", "PR", "SC", "SP"]
+      "texto": "Capital do estado não é litoral",
+      "categoria": "geografia",
+      "estados": ["AM", "AC", "RO", "RR", "AP", "TO", "PI", "GO", "MT", "MS", "MG", "SP", "PR", "RS", "DF"]
+    },
+    {
+      "texto": "É cortado pelo rio São Francisco",
+      "categoria": "rios",
+      "estados": ["MG", "BA", "PE", "AL", "SE"]
+    },    
+    {
+      "texto": "É cortado pelo rio Paraná",
+      "categoria": "rios",
+      "estados": ["MG", "GO", "MS", "SP", "PR"]
     },
     {
       "texto": "Faz parte do bioma Amazônia",
+      "categoria": "biomas",
       "estados": ["AC", "AM", "AP", "MA", "MT", "PA", "RO", "RR", "TO"]
     },
     {
       "texto": "Faz parte do bioma Cerrado",
+      "categoria": "biomas",
       "estados": ["AM", "AP", "BA", "DF", "GO", "MA", "MG", "MS", "MT", "PA", "PI", "PR", "RO", "RR", "SP", "TO"]
     },
     {
       "texto": "Faz parte do bioma Mata Atlântica",
+      "categoria": "biomas",
       "estados": ["AL", "BA", "CE", "ES", "GO", "MG", "MS", "PB", "PE", "PI", "PR", "RJ", "RN", "RS", "SC", "SE", "SP"]
     },
     {
-      "texto": "Faz parte do bioma Caatinga",
-      "estados": ["AL", "BA", "CE", "MA", "MG", "PB", "PE", "PI", "SE"]
-    },
-    {
-      "texto": "Top 10 em movimentação portuária (em peso bruto)",
-      "estados": ["BA", "ES", "MA", "PA", "PE", "PR", "RJ", "RS", "SC", "SP"]
-    },
-    {
       "texto": "Top 10 na produção de café",
+      "categoria": "produção",
       "estados": ["BA", "ES", "GO", "MG", "MT", "PA", "PR", "RJ", "RO", "SP"]
     },
     {
       "texto": "Top 10 na produção de feijão",
+      "categoria": "produção",
       "estados": ["BA", "CE", "GO", "MG", "MT", "PR", "RS", "SC", "SP", "TO"]
     },
     {
       "texto": "Top 10 na produção de milho",
+      "categoria": "produção",
       "estados": ["BA", "GO", "MA", "MG", "MS", "MT", "PR", "RS", "SP", "TO"]
     },
     {
-      "texto": "Possui fábricas de automóveis ou motocicletas",
-      "estados": ["AM", "BA", "GO", "MG", "PE", "PR", "RJ", "RS", "SC", "SP"]
-    },
-    {
-      "texto": "Possui parque eólico",
-      "estados": ["BA", "CE", "MA", "PB", "PE", "PI", "PR", "RJ", "RN", "RS", "SC", "SE"]
-    },
-    {
       "texto": "Já sediou jogos da copa do mundo",
+      "categoria": "esportes",
       "estados": ["AM", "BA", "CE", "DF", "MG", "MT", "PE", "PR", "RJ", "RN", "RS", "SP"]
     },
     {
       "texto": "Já teve algum time campeão brasileiro de futebol masculino",
+      "categoria": "esportes",
       "estados": ["BA", "MG", "PE", "PR", "RJ", "RS", "SC", "SP"]
+    },
+    {
+      "texto": "Time de destaque do estado é azul",
+      "categoria": "esportes",
+      "estados": ["MG", "RS", "BA", "CE", "SC", "AL", "SE", "PA", "AM", "PR"]
+    },   
+    {
+      "texto": "Prefere o termo 'Biscoito'",
+      "categoria": "linguagem",
+      "estados": ["AL", "BA", "CE", "ES", "PA", "PE", "PI", "RJ", "RN"]
+    },
+    {
+      "texto": "Prefere o termo 'Bolacha'",
+      "categoria": "linguagem",
+      "estados": ["AM", "GO", "MT", "MS", "PR", "RS", "SC", "SP", "TO"]
+    },
+    {
+      "texto": "Prefere o termo 'Mexerica'",
+      "categoria": "linguagem",
+      "estados": ["GO", "MG", "SP", "ES"]
+    },
+    {
+      "texto": "Prefere o termo 'Tangerina'",
+      "categoria": "linguagem",
+      "estados": ["RJ", "ES", "BA"]
+    },
+    {
+      "texto": "Prefere o termo 'Bergamota' ou 'Mimosa'",
+      "categoria": "linguagem",
+      "estados": ["RS", "SC", "PR"]
     }
   ]
 }
