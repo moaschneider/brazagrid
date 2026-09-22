@@ -11,5 +11,5 @@ Thumbs.db
 # Logs
 *.log
 
-data_old.json
+commit-convention.md
 
