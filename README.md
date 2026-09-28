@@ -263,3 +263,6 @@ O BrazaGrid também funciona como projeto de estudo e portfólio, envolvendo con
 **JavaScript · React · Node.js · SPARQL · Wikidata · tratamento de dados · lógica de programação · algoritmos · testes · Git**
 
 O projeto será desenvolvido de forma incremental, priorizando primeiro a qualidade e a consistência dos dados e das regras antes da implementação completa da interface do jogo.
+
+---
+*Última atualização: 28/09/2026*
