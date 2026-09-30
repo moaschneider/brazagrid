@@ -82,6 +82,51 @@ Os dados originais obtidos do Wikidata serão mantidos conceitualmente separados
 
 Isso permite, por exemplo, definir uma característica como `É escritor` utilizando diferentes evidências do Wikidata, sem transformar essa classificação em um dado arbitrariamente atribuído à personalidade.
 
+### Rastreabilidade dos dados e consultas SPARQL
+
+Sempre que viável, cada fato importado deve manter sua origem para que possa ser conferido e atualizado. Registre o QID da entidade, a propriedade ou consulta usada e a data da extração. Características calculadas pelo projeto devem ficar separadas dos fatos de origem, com a regra que as derivou documentada. Assim, uma heurística como `É escritor` pode combinar a ocupação com evidência de autoria de obra literária, sem ser confundida com um fato diretamente fornecido pelo Wikidata.
+
+Exemplo conceitual de estrutura — os valores abaixo são ilustrativos:
+
+```json
+{
+    "id": "identificador-local",
+    "name": "Nome da personalidade",
+    "wikidataId": "QID",
+    "sourceFacts": {
+        "occupation": [
+            {
+                "qid": "QID_DA_OCUPACAO",
+                "property": "P106"
+            }
+        ],
+        "birthPlace": {
+            "qid": "QID_DO_LOCAL",
+            "property": "P19"
+        }
+    },
+    "derivedCharacteristics": {
+        "writer": {
+            "value": true,
+            "rule": "ocupação de escritor ou autoria de obra literária"
+        }
+    },
+    "sourceRetrievedAt": "AAAA-MM-DD"
+}
+```
+
+Propriedades já consideradas nas consultas incluem `P31` (instância de), `P27` (país de cidadania), `P106` (ocupação), `P50` (autor), `P19` (local de nascimento), `P21` (sexo ou gênero) e `P166` (prêmio recebido). QIDs e critérios devem ser confirmados antes de serem usados como evidência.
+
+Consulta exploratória para encontrar pessoas classificadas como escritoras e associadas à autoria de uma obra literária:
+
+```sparql
+?pessoa wdt:P106 wd:Q36180 .
+?obra wdt:P50 ?pessoa .
+?obra wdt:P31 wd:Q7725634 .
+```
+
+Aqui, `Q36180` representa escritor e `Q7725634` representa obra literária. Essa abordagem foi mais útil nos testes do que exigir que a obra fosse exatamente classificada como livro (`Q571`). As consultas devem ser testadas gradualmente; os resultados e a heurística precisam ser revistos antes de virarem regra do jogo.
+
 ## 🧩 Características
 
 As características utilizadas como critérios, chamadas provisoriamente de **retrancas**, poderão representar diferentes tipos de informação.

@@ -1,0 +1,45 @@
+SELECT DISTINCT
+  ?item
+  ?itemLabel
+  ?areaDaMusica
+  ?areaDaMusicaLabel
+  ?unidadeFederativa
+  ?unidadeFederativaLabel
+  ?sitelinks
+  
+WHERE {
+  # Pessoas humanas com cidadania brasileira
+  ?item wdt:P31 wd:Q5 ;
+        wdt:P27 wd:Q155 ;
+        wdt:P19 ?localNascimento ;
+        wdt:P106 ?areaDaMusica .
+
+  # Ocupações musicais incluídas nesta consulta
+  VALUES ?areaDaMusica {
+    wd:Q639669   # músico
+    wd:Q177220   # cantor
+    wd:Q36834    # compositor
+    wd:Q1278335  # instrumentista
+  }
+
+  # Sobe do local de nascimento até a unidade federativa brasileira
+  ?localNascimento wdt:P131* ?unidadeFederativa .
+  ?unidadeFederativa wdt:P17 wd:Q155 ;
+                     wdt:P31/wdt:P279* wd:Q10864048 .
+
+  ?item wikibase:sitelinks ?sitelinks.
+
+  FILTER(?sitelinks >= 1)
+
+  ?article schema:about ?item ;
+           schema:isPartOf <https://pt.wikipedia.org/>.
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "pt,en".
+  }
+}
+
+ORDER BY DESC(?sitelinks)
+
+# Limite temporário para testes; conta linhas pessoa–ocupação, não pessoas únicas
+LIMIT 400

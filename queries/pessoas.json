@@ -1,0 +1,6169 @@
+{
+  "Q12897": {
+    "wikidataId": "Q12897",
+    "name": "Pelé",
+    "occupations": [
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q6105": {
+    "wikidataId": "Q6105",
+    "name": "Hebe Camargo",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q12881": {
+    "wikidataId": "Q12881",
+    "name": "Paulo Coelho",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q39444": {
+    "wikidataId": "Q39444",
+    "name": "Ronaldinho Gaúcho",
+    "occupations": [
+      "músico"
+    ],
+    "birthplace": "Rio Grande do Sul",
+    "birthplaceQid": "Q40030",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40030",
+          "label": "Rio Grande do Sul",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q288933": {
+    "wikidataId": "Q288933",
+    "name": "Marjorie Estiano",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Paraná",
+    "birthplaceQid": "Q15499",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q15499",
+          "label": "Paraná",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q200131": {
+    "wikidataId": "Q200131",
+    "name": "Antônio Carlos Jobim",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q44407": {
+    "wikidataId": "Q44407",
+    "name": "Ronald Golias",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q192359": {
+    "wikidataId": "Q192359",
+    "name": "João Gilberto",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q203514": {
+    "wikidataId": "Q203514",
+    "name": "Heitor Villa-Lobos",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q80761": {
+    "wikidataId": "Q80761",
+    "name": "Dante",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q230401": {
+    "wikidataId": "Q230401",
+    "name": "Astrud Gilberto",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q221479": {
+    "wikidataId": "Q221479",
+    "name": "Gilberto Gil",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q333856": {
+    "wikidataId": "Q333856",
+    "name": "Vinicius de Moraes",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q488387": {
+    "wikidataId": "Q488387",
+    "name": "Michel Teló",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Paraná",
+    "birthplaceQid": "Q15499",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q15499",
+          "label": "Paraná",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q309983": {
+    "wikidataId": "Q309983",
+    "name": "Caetano Veloso",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q275939": {
+    "wikidataId": "Q275939",
+    "name": "Xuxa",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio Grande do Sul",
+    "birthplaceQid": "Q40030",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40030",
+          "label": "Rio Grande do Sul",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q333632": {
+    "wikidataId": "Q333632",
+    "name": "Chico Buarque",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q13476301": {
+    "wikidataId": "Q13476301",
+    "name": "Anitta",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q337359": {
+    "wikidataId": "Q337359",
+    "name": "Sérgio Mendes",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q465877": {
+    "wikidataId": "Q465877",
+    "name": "Elis Regina",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio Grande do Sul",
+    "birthplaceQid": "Q40030",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40030",
+          "label": "Rio Grande do Sul",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q265179": {
+    "wikidataId": "Q265179",
+    "name": "Rita Lee",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q169565": {
+    "wikidataId": "Q169565",
+    "name": "Zeca Pagodinho",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q307391": {
+    "wikidataId": "Q307391",
+    "name": "Q307391",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q236361": {
+    "wikidataId": "Q236361",
+    "name": "Gal Costa",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q235940": {
+    "wikidataId": "Q235940",
+    "name": "Ivete Sangalo",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q235980": {
+    "wikidataId": "Q235980",
+    "name": "Maria Bethânia",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q149389": {
+    "wikidataId": "Q149389",
+    "name": "Glória Pires",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q2980493": {
+    "wikidataId": "Q2980493",
+    "name": "Claudia Leitte",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q465927": {
+    "wikidataId": "Q465927",
+    "name": "Daniela Mercury",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q542847": {
+    "wikidataId": "Q542847",
+    "name": "Milton Nascimento",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q465191": {
+    "wikidataId": "Q465191",
+    "name": "Roberto Carlos",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Espírito Santo",
+    "birthplaceQid": "Q43233",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q43233",
+          "label": "Espírito Santo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q983074": {
+    "wikidataId": "Q983074",
+    "name": "Toquinho",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q263855": {
+    "wikidataId": "Q263855",
+    "name": "Carlos Gomes",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q18708093": {
+    "wikidataId": "Q18708093",
+    "name": "Rafael Vitti",
+    "occupations": [
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1276728": {
+    "wikidataId": "Q1276728",
+    "name": "Letícia Sabatella",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q17403398": {
+    "wikidataId": "Q17403398",
+    "name": "Laura Rizzotto",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q25438724": {
+    "wikidataId": "Q25438724",
+    "name": "Melody",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q119015": {
+    "wikidataId": "Q119015",
+    "name": "Jorge Ben Jor",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q198962": {
+    "wikidataId": "Q198962",
+    "name": "Sandy",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q560969": {
+    "wikidataId": "Q560969",
+    "name": "Hermeto Pascoal",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Alagoas",
+    "birthplaceQid": "Q40885",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40885",
+          "label": "Alagoas",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q51960": {
+    "wikidataId": "Q51960",
+    "name": "Marisa Monte",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q731775": {
+    "wikidataId": "Q731775",
+    "name": "Cazuza",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q353853": {
+    "wikidataId": "Q353853",
+    "name": "Luan Santana",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Mato Grosso do Sul",
+    "birthplaceQid": "Q43319",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q43319",
+          "label": "Mato Grosso do Sul",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q982314": {
+    "wikidataId": "Q982314",
+    "name": "Luiz Gonzaga",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Pernambuco",
+    "birthplaceQid": "Q40942",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40942",
+          "label": "Pernambuco",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q435176": {
+    "wikidataId": "Q435176",
+    "name": "Elza Soares",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q2995040": {
+    "wikidataId": "Q2995040",
+    "name": "Loalwa Braz",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q199666": {
+    "wikidataId": "Q199666",
+    "name": "Adoniran Barbosa",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q4405337": {
+    "wikidataId": "Q4405337",
+    "name": "Ana Paula Valadão",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q201459": {
+    "wikidataId": "Q201459",
+    "name": "Igor Cavalera",
+    "occupations": [
+      "músico"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q316508": {
+    "wikidataId": "Q316508",
+    "name": "Amon Tobin",
+    "occupations": [
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q601977": {
+    "wikidataId": "Q601977",
+    "name": "Kiko Loureiro",
+    "occupations": [
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q380821": {
+    "wikidataId": "Q380821",
+    "name": "Gusttavo Lima",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q261027": {
+    "wikidataId": "Q261027",
+    "name": "Eliane Elias",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q659558": {
+    "wikidataId": "Q659558",
+    "name": "Andre Matos",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q465902": {
+    "wikidataId": "Q465902",
+    "name": "Chiquinha Gonzaga",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q953450": {
+    "wikidataId": "Q953450",
+    "name": "Seu Jorge",
+    "occupations": [
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q707607": {
+    "wikidataId": "Q707607",
+    "name": "Naná Vasconcelos",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Pernambuco",
+    "birthplaceQid": "Q40942",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40942",
+          "label": "Pernambuco",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q455229": {
+    "wikidataId": "Q455229",
+    "name": "Flora Purim",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q435747": {
+    "wikidataId": "Q435747",
+    "name": "Cláudia Ohana",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q458663": {
+    "wikidataId": "Q458663",
+    "name": "Beth Carvalho",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q409259": {
+    "wikidataId": "Q409259",
+    "name": "Airto Moreira",
+    "occupations": [
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Santa Catarina",
+    "birthplaceQid": "Q41115",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41115",
+          "label": "Santa Catarina",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q23893181": {
+    "wikidataId": "Q23893181",
+    "name": "Pabllo Vittar",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Maranhão",
+    "birthplaceQid": "Q42362",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q42362",
+          "label": "Maranhão",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q5613873": {
+    "wikidataId": "Q5613873",
+    "name": "Larissa Manoela",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Paraná",
+    "birthplaceQid": "Q15499",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q15499",
+          "label": "Paraná",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1131864": {
+    "wikidataId": "Q1131864",
+    "name": "Ana Carolina",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q522260": {
+    "wikidataId": "Q522260",
+    "name": "Fabrizio Moretti",
+    "occupations": [
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q10329786": {
+    "wikidataId": "Q10329786",
+    "name": "Miguel Gustavo",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q464993": {
+    "wikidataId": "Q464993",
+    "name": "Baden Powell",
+    "occupations": [
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q43834": {
+    "wikidataId": "Q43834",
+    "name": "Clementina de Jesus",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q2088127": {
+    "wikidataId": "Q2088127",
+    "name": "Paulo Jr.",
+    "occupations": [
+      "músico"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q717755": {
+    "wikidataId": "Q717755",
+    "name": "Ary Barroso",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q727090": {
+    "wikidataId": "Q727090",
+    "name": "Dorival Caymmi",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q727249": {
+    "wikidataId": "Q727249",
+    "name": "Carlinhos Brown",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q281086": {
+    "wikidataId": "Q281086",
+    "name": "Pixinguinha",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q732513": {
+    "wikidataId": "Q732513",
+    "name": "Jô Soares",
+    "occupations": [
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q932925": {
+    "wikidataId": "Q932925",
+    "name": "Luiz Bonfá",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q271583": {
+    "wikidataId": "Q271583",
+    "name": "Maria Rita",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1276066": {
+    "wikidataId": "Q1276066",
+    "name": "Adriana Lessa",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1391980": {
+    "wikidataId": "Q1391980",
+    "name": "Alberto Nepomuceno",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Ceará",
+    "birthplaceQid": "Q40123",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40123",
+          "label": "Ceará",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q462102": {
+    "wikidataId": "Q462102",
+    "name": "Pitty",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q269841": {
+    "wikidataId": "Q269841",
+    "name": "Cássia Eller",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q281078": {
+    "wikidataId": "Q281078",
+    "name": "Noel Rosa",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q703330": {
+    "wikidataId": "Q703330",
+    "name": "Ivan Lins",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q633481": {
+    "wikidataId": "Q633481",
+    "name": "Laurindo Almeida",
+    "occupations": [
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q447984": {
+    "wikidataId": "Q447984",
+    "name": "Clara Nunes",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1205977": {
+    "wikidataId": "Q1205977",
+    "name": "Lisa Ono",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1362619": {
+    "wikidataId": "Q1362619",
+    "name": "Alexandre Levy",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q721439": {
+    "wikidataId": "Q721439",
+    "name": "Mozart Camargo Guarnieri",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q167752": {
+    "wikidataId": "Q167752",
+    "name": "Zequinha de Abreu",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q217087": {
+    "wikidataId": "Q217087",
+    "name": "Adriana Calcanhotto",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio Grande do Sul",
+    "birthplaceQid": "Q40030",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40030",
+          "label": "Rio Grande do Sul",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1103858": {
+    "wikidataId": "Q1103858",
+    "name": "Claudio Santoro",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Amazonas",
+    "birthplaceQid": "Q40040",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40040",
+          "label": "Amazonas",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q2495947": {
+    "wikidataId": "Q2495947",
+    "name": "Kelly Key",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q3039180": {
+    "wikidataId": "Q3039180",
+    "name": "Marcos Valle",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q2980756": {
+    "wikidataId": "Q2980756",
+    "name": "Cleo Pires",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q469539": {
+    "wikidataId": "Q469539",
+    "name": "Tânia Maria",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Maranhão",
+    "birthplaceQid": "Q42362",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q42362",
+          "label": "Maranhão",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1948488": {
+    "wikidataId": "Q1948488",
+    "name": "Morris Albert",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q432243": {
+    "wikidataId": "Q432243",
+    "name": "Vanessa da Mata",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "Mato Grosso",
+    "birthplaceQid": "Q42824",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q42824",
+          "label": "Mato Grosso",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q302757": {
+    "wikidataId": "Q302757",
+    "name": "Badi Assad",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q2883785": {
+    "wikidataId": "Q2883785",
+    "name": "Angélica",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q10320248": {
+    "wikidataId": "Q10320248",
+    "name": "Lu Andrade",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1240481": {
+    "wikidataId": "Q1240481",
+    "name": "Eleazar de Carvalho",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Ceará",
+    "birthplaceQid": "Q40123",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40123",
+          "label": "Ceará",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q983565": {
+    "wikidataId": "Q983565",
+    "name": "Gregório de Matos",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q451002": {
+    "wikidataId": "Q451002",
+    "name": "Miúcha",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q982366": {
+    "wikidataId": "Q982366",
+    "name": "Renato Russo",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q3335620": {
+    "wikidataId": "Q3335620",
+    "name": "Nanda Costa",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1262590": {
+    "wikidataId": "Q1262590",
+    "name": "Tim Maia",
+    "occupations": [
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q716174": {
+    "wikidataId": "Q716174",
+    "name": "Francisco Mignone",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q721684": {
+    "wikidataId": "Q721684",
+    "name": "Walter Afanasieff",
+    "occupations": [
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q438512": {
+    "wikidataId": "Q438512",
+    "name": "Alcione",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Maranhão",
+    "birthplaceQid": "Q42362",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q42362",
+          "label": "Maranhão",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q435341": {
+    "wikidataId": "Q435341",
+    "name": "Guiomar Novaes",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1890299": {
+    "wikidataId": "Q1890299",
+    "name": "Paulo Leminski",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Paraná",
+    "birthplaceQid": "Q15499",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q15499",
+          "label": "Paraná",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q5429355": {
+    "wikidataId": "Q5429355",
+    "name": "Fafá de Belém",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Pará",
+    "birthplaceQid": "Q39517",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39517",
+          "label": "Pará",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q571260": {
+    "wikidataId": "Q571260",
+    "name": "Eumir Deodato",
+    "occupations": [
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1356808": {
+    "wikidataId": "Q1356808",
+    "name": "Ernesto Nazareth",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q2550245": {
+    "wikidataId": "Q2550245",
+    "name": "Aurora Miranda",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q7242108": {
+    "wikidataId": "Q7242108",
+    "name": "Preta Gil",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q465351": {
+    "wikidataId": "Q465351",
+    "name": "Elba Ramalho",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Paraíba",
+    "birthplaceQid": "Q38088",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q38088",
+          "label": "Paraíba",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1338827": {
+    "wikidataId": "Q1338827",
+    "name": "Marcelo Zarvos",
+    "occupations": [
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q2635164": {
+    "wikidataId": "Q2635164",
+    "name": "Maysa Matarazzo",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q2920731": {
+    "wikidataId": "Q2920731",
+    "name": "Fernanda Takai",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Amapá",
+    "birthplaceQid": "Q40130",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40130",
+          "label": "Amapá",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q6004244": {
+    "wikidataId": "Q6004244",
+    "name": "Nelson Ned",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q384804": {
+    "wikidataId": "Q384804",
+    "name": "Tiririca",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Ceará",
+    "birthplaceQid": "Q40123",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40123",
+          "label": "Ceará",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q2744497": {
+    "wikidataId": "Q2744497",
+    "name": "Simone",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q939829": {
+    "wikidataId": "Q939829",
+    "name": "Djavan",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Alagoas",
+    "birthplaceQid": "Q40885",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40885",
+          "label": "Alagoas",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q978375": {
+    "wikidataId": "Q978375",
+    "name": "Edu Lobo",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q960660": {
+    "wikidataId": "Q960660",
+    "name": "Paulinho da Costa",
+    "occupations": [
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q2463797": {
+    "wikidataId": "Q2463797",
+    "name": "Thiago Fragoso",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1791104": {
+    "wikidataId": "Q1791104",
+    "name": "Gretchen",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q3504775": {
+    "wikidataId": "Q3504775",
+    "name": "Jamelão",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q145514": {
+    "wikidataId": "Q145514",
+    "name": "Wanessa Camargo",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Goiás",
+    "birthplaceQid": "Q41587",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41587",
+          "label": "Goiás",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q940848": {
+    "wikidataId": "Q940848",
+    "name": "Nara Leão",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "Espírito Santo",
+    "birthplaceQid": "Q43233",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q43233",
+          "label": "Espírito Santo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q746182": {
+    "wikidataId": "Q746182",
+    "name": "Egberto Gismonti",
+    "occupations": [
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1356607": {
+    "wikidataId": "Q1356607",
+    "name": "João Bosco",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q724495": {
+    "wikidataId": "Q724495",
+    "name": "Gui Boratto",
+    "occupations": [
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1691554": {
+    "wikidataId": "Q1691554",
+    "name": "Joe Penna",
+    "occupations": [
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q3113057": {
+    "wikidataId": "Q3113057",
+    "name": "João Carlos Martins",
+    "occupations": [
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q6028735": {
+    "wikidataId": "Q6028735",
+    "name": "Inezita Barroso",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q3837943": {
+    "wikidataId": "Q3837943",
+    "name": "Lua Blanco",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1789267": {
+    "wikidataId": "Q1789267",
+    "name": "Ana Maria Braga",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q2153794": {
+    "wikidataId": "Q2153794",
+    "name": "Lovefoxxx",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1789904": {
+    "wikidataId": "Q1789904",
+    "name": "Cláudio Manuel da Costa",
+    "occupations": [
+      "músico"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1564988": {
+    "wikidataId": "Q1564988",
+    "name": "Radamés Gnattali",
+    "occupations": [
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio Grande do Sul",
+    "birthplaceQid": "Q40030",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40030",
+          "label": "Rio Grande do Sul",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1789876": {
+    "wikidataId": "Q1789876",
+    "name": "Chico Anysio",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Ceará",
+    "birthplaceQid": "Q40123",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40123",
+          "label": "Ceará",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1375576": {
+    "wikidataId": "Q1375576",
+    "name": "Tom Zé",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1392583": {
+    "wikidataId": "Q1392583",
+    "name": "Raul Seixas",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q567872": {
+    "wikidataId": "Q567872",
+    "name": "Carlos Lyra",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q5293796": {
+    "wikidataId": "Q5293796",
+    "name": "Dona Ivone Lara",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q7357291": {
+    "wikidataId": "Q7357291",
+    "name": "Rodrigo Amarante",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q16337938": {
+    "wikidataId": "Q16337938",
+    "name": "Ludmilla",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q690238": {
+    "wikidataId": "Q690238",
+    "name": "Arnaldo Antunes",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q658889": {
+    "wikidataId": "Q658889",
+    "name": "Eliana",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q2085377": {
+    "wikidataId": "Q2085377",
+    "name": "Erasmo Carlos",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q10280031": {
+    "wikidataId": "Q10280031",
+    "name": "Fantine Thó",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Mato Grosso",
+    "birthplaceQid": "Q42824",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q42824",
+          "label": "Mato Grosso",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q539833": {
+    "wikidataId": "Q539833",
+    "name": "Sivuca",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Paraíba",
+    "birthplaceQid": "Q38088",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q38088",
+          "label": "Paraíba",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q637373": {
+    "wikidataId": "Q637373",
+    "name": "Walter Wanderley",
+    "occupations": [
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Pernambuco",
+    "birthplaceQid": "Q40942",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40942",
+          "label": "Pernambuco",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q715987": {
+    "wikidataId": "Q715987",
+    "name": "Lenine",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "Pernambuco",
+    "birthplaceQid": "Q40942",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40942",
+          "label": "Pernambuco",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q43947": {
+    "wikidataId": "Q43947",
+    "name": "Fernanda Abreu",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q241801": {
+    "wikidataId": "Q241801",
+    "name": "Paulinho da Viola",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q322812": {
+    "wikidataId": "Q322812",
+    "name": "Antônio Francisco Braga",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q327208": {
+    "wikidataId": "Q327208",
+    "name": "Henrique Oswald",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q611037": {
+    "wikidataId": "Q611037",
+    "name": "António José da Silva",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q636408": {
+    "wikidataId": "Q636408",
+    "name": "José Maurício Nunes Garcia",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1041189": {
+    "wikidataId": "Q1041189",
+    "name": "Arthur Moreira Lima",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q504512": {
+    "wikidataId": "Q504512",
+    "name": "Francisco Manuel da Silva",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1797433": {
+    "wikidataId": "Q1797433",
+    "name": "Rita Cadillac",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q3084419": {
+    "wikidataId": "Q3084419",
+    "name": "Joyce",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q2710419": {
+    "wikidataId": "Q2710419",
+    "name": "Cartola",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q839547": {
+    "wikidataId": "Q839547",
+    "name": "Fortuna",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q455875": {
+    "wikidataId": "Q455875",
+    "name": "Luciana Souza",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q460056": {
+    "wikidataId": "Q460056",
+    "name": "Maria Gadú",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q468000": {
+    "wikidataId": "Q468000",
+    "name": "Céu",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1225595": {
+    "wikidataId": "Q1225595",
+    "name": "Dillon (Cantora)",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q5110234": {
+    "wikidataId": "Q5110234",
+    "name": "Nélson Gonçalves",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio Grande do Sul",
+    "birthplaceQid": "Q40030",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40030",
+          "label": "Rio Grande do Sul",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q3187635": {
+    "wikidataId": "Q3187635",
+    "name": "Juan Darthés",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q8188108": {
+    "wikidataId": "Q8188108",
+    "name": "Adelaide Chiozzo",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q385498": {
+    "wikidataId": "Q385498",
+    "name": "Martinho da Vila",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q8069996": {
+    "wikidataId": "Q8069996",
+    "name": "Zezé Motta",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q10373420": {
+    "wikidataId": "Q10373420",
+    "name": "Sophia Abrahão",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q711606": {
+    "wikidataId": "Q711606",
+    "name": "Gilberto Mendes",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q7862112": {
+    "wikidataId": "Q7862112",
+    "name": "Tânia Alves",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": [
+      "Paraíba",
+      "Rio de Janeiro"
+    ],
+    "birthplaceQid": [
+      "Q38088",
+      "Q41428"
+    ],
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q38088",
+          "label": "Paraíba",
+          "country": "Brasil"
+        },
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1072227": {
+    "wikidataId": "Q1072227",
+    "name": "Chico César",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Paraíba",
+    "birthplaceQid": "Q38088",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q38088",
+          "label": "Paraíba",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q56351986": {
+    "wikidataId": "Q56351986",
+    "name": "Isabela Souza",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q3306109": {
+    "wikidataId": "Q3306109",
+    "name": "Alexandre Pires",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q462109": {
+    "wikidataId": "Q462109",
+    "name": "Heitor Pereira",
+    "occupations": [
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio Grande do Sul",
+    "birthplaceQid": "Q40030",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40030",
+          "label": "Rio Grande do Sul",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q541393": {
+    "wikidataId": "Q541393",
+    "name": "Marlui Miranda",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Ceará",
+    "birthplaceQid": "Q40123",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40123",
+          "label": "Ceará",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q273347": {
+    "wikidataId": "Q273347",
+    "name": "Margareth Menezes",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q501797": {
+    "wikidataId": "Q501797",
+    "name": "Carla Perez",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Bahia",
+    "birthplaceQid": "Q40430",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40430",
+          "label": "Bahia",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1336103": {
+    "wikidataId": "Q1336103",
+    "name": "João Donato",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Acre",
+    "birthplaceQid": "Q40780",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40780",
+          "label": "Acre",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q560788": {
+    "wikidataId": "Q560788",
+    "name": "Alceu Valença",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Pernambuco",
+    "birthplaceQid": "Q40942",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40942",
+          "label": "Pernambuco",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q716196": {
+    "wikidataId": "Q716196",
+    "name": "Chico Science",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Pernambuco",
+    "birthplaceQid": "Q40942",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40942",
+          "label": "Pernambuco",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1579932": {
+    "wikidataId": "Q1579932",
+    "name": "Mel Fronckowiak",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Santa Catarina",
+    "birthplaceQid": "Q41115",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41115",
+          "label": "Santa Catarina",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q604223": {
+    "wikidataId": "Q604223",
+    "name": "Antonio Pinto",
+    "occupations": [
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1635556": {
+    "wikidataId": "Q1635556",
+    "name": "Nana Caymmi",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1787960": {
+    "wikidataId": "Q1787960",
+    "name": "Alfredo d'Escragnolle Taunay",
+    "occupations": [
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q2826788": {
+    "wikidataId": "Q2826788",
+    "name": "Agepê",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q2701997": {
+    "wikidataId": "Q2701997",
+    "name": "Ed Motta",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q3724579": {
+    "wikidataId": "Q3724579",
+    "name": "Luiza Possi",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q4762550": {
+    "wikidataId": "Q4762550",
+    "name": "Ângela Ro Ro",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q3034280": {
+    "wikidataId": "Q3034280",
+    "name": "Dolores Duran",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q6523421": {
+    "wikidataId": "Q6523421",
+    "name": "Leny Andrade",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q10396113": {
+    "wikidataId": "Q10396113",
+    "name": "Ângela Maria",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q6430826": {
+    "wikidataId": "Q6430826",
+    "name": "Chorão",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q5290443": {
+    "wikidataId": "Q5290443",
+    "name": "Dominguinhos",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Pernambuco",
+    "birthplaceQid": "Q40942",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40942",
+          "label": "Pernambuco",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1089193": {
+    "wikidataId": "Q1089193",
+    "name": "Jair Rodrigues",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q3330873": {
+    "wikidataId": "Q3330873",
+    "name": "Sidney Magal",
+    "occupations": [
+      "cantor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q742334": {
+    "wikidataId": "Q742334",
+    "name": "Ney Matogrosso",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Mato Grosso do Sul",
+    "birthplaceQid": "Q43319",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q43319",
+          "label": "Mato Grosso do Sul",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q48871586": {
+    "wikidataId": "Q48871586",
+    "name": "Linn da Quebrada",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "São Paulo",
+    "birthplaceQid": "Q175",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q175",
+          "label": "São Paulo",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q712553": {
+    "wikidataId": "Q712553",
+    "name": "Geraldo Vandré",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Paraíba",
+    "birthplaceQid": "Q38088",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q38088",
+          "label": "Paraíba",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q3051253": {
+    "wikidataId": "Q3051253",
+    "name": "Wagner Lamounier",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q10326942": {
+    "wikidataId": "Q10326942",
+    "name": "Martinho Lutero Galati de Oliveira",
+    "occupations": [
+      "músico"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1791093": {
+    "wikidataId": "Q1791093",
+    "name": "Grande Otelo",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q16531371": {
+    "wikidataId": "Q16531371",
+    "name": "Barbara Fialho",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Minas Gerais",
+    "birthplaceQid": "Q39109",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39109",
+          "label": "Minas Gerais",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q4123831": {
+    "wikidataId": "Q4123831",
+    "name": "Gaby Amarantos",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Pará",
+    "birthplaceQid": "Q39517",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q39517",
+          "label": "Pará",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q3932615": {
+    "wikidataId": "Q3932615",
+    "name": "Renato Borghetti",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio Grande do Sul",
+    "birthplaceQid": "Q40030",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40030",
+          "label": "Rio Grande do Sul",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q268288": {
+    "wikidataId": "Q268288",
+    "name": "Bezerra da Silva",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Pernambuco",
+    "birthplaceQid": "Q40942",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40942",
+          "label": "Pernambuco",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q15890642": {
+    "wikidataId": "Q15890642",
+    "name": "Clarice Falcão",
+    "occupations": [
+      "cantor",
+      "compositor"
+    ],
+    "birthplace": "Pernambuco",
+    "birthplaceQid": "Q40942",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40942",
+          "label": "Pernambuco",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q603564": {
+    "wikidataId": "Q603564",
+    "name": "Antônio Meneses",
+    "occupations": [
+      "músico"
+    ],
+    "birthplace": "Pernambuco",
+    "birthplaceQid": "Q40942",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q40942",
+          "label": "Pernambuco",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q250335": {
+    "wikidataId": "Q250335",
+    "name": "Cristian Machado",
+    "occupations": [
+      "cantor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q524788": {
+    "wikidataId": "Q524788",
+    "name": "Lulu Santos",
+    "occupations": [
+      "cantor",
+      "compositor",
+      "músico"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q177220",
+          "label": "cantor"
+        },
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        },
+        {
+          "qid": "Q639669",
+          "label": "músico"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  },
+  "Q1098159": {
+    "wikidataId": "Q1098159",
+    "name": "Cláudio Roditi",
+    "occupations": [
+      "compositor"
+    ],
+    "birthplace": "Rio de Janeiro",
+    "birthplaceQid": "Q41428",
+    "sourceFacts": {
+      "occupation": [
+        {
+          "qid": "Q36834",
+          "label": "compositor"
+        }
+      ],
+      "birthplace": [
+        {
+          "qid": "Q41428",
+          "label": "Rio de Janeiro",
+          "country": "Brasil"
+        }
+      ]
+    }
+  }
+}
